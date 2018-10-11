@@ -14,9 +14,9 @@ div#article div.content {
     color: rgba(0,0,0,.84);
 }
 div#article div.content p {
-    font-weight: 400;
+    font-weight: 800;
     font-style: normal;
-    font-size: 21px;
+    font-size: 30px;
     line-height: 1.58;
     letter-spacing: -.003em;
 }
